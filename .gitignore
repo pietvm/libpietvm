@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# CLion metadata
+.idea/*
