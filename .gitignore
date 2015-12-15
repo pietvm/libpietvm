@@ -29,3 +29,7 @@
 
 # CLion metadata
 .idea/*
+
+# Doxygen
+doxygen.log
+doc/*
